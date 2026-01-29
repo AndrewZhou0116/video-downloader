@@ -1,1 +1,1 @@
-##applet of Wechat
+applet of Wechat
