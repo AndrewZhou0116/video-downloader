@@ -1,1 +1,1 @@
-applet of Wechat
+a applet of Wechat
